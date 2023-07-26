@@ -3,7 +3,7 @@
 
 # mentoramaUnityAvancado
 
-Curso: **Unity Iniciante**</br>
+Curso: **Unity Avancado**</br>
 Versão do Unity: **2021.3.13f1**
 
 ## Modulo 11
